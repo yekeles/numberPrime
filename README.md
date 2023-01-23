@@ -1,0 +1,1 @@
+# Sayıların kvvetlerini hesaplayan program
