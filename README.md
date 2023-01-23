@@ -1,1 +1,1 @@
-# Sayıların kvvetlerini hesaplayan program
+# Sayıların kuvvetlerini hesaplayan program
